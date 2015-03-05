@@ -1,0 +1,6 @@
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\obj\Release\FTCHCOM.csprojResolveAssemblyReference.cache
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\bin\Release\FCTH.dll
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\bin\Release\FTCHpy.dll
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\bin\Release\FTCHpy.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\obj\Release\FTCHpy.dll
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\obj\Release\FTCHpy.pdb
