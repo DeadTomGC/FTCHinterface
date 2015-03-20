@@ -35,6 +35,7 @@ namespace FTCHpy
             }
             FCTHTable = get.Apply(bmp,2);
             
+            
         }
         public double result(int i)
         {
