@@ -4,3 +4,9 @@ C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\bin\Rel
 C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\bin\Release\FTCHpy.pdb
 C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\obj\Release\FTCHpy.dll
 C:\Users\DeadTomGC\documents\visual studio 2010\Projects\FTCHCOM\FTCHCOM\obj\Release\FTCHpy.pdb
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\bin\Release\FTCHpy.dll
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\bin\Release\FTCHpy.pdb
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\bin\Release\FCTH.dll
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\obj\Release\FTCHpy.dll
+C:\Users\vader\Documents\Visual Studio 2010\Projects\FTCHinterface\FTCHCOM\obj\Release\FTCHpy.pdb

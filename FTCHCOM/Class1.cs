@@ -22,20 +22,26 @@ namespace FTCHpy
             img[i,j] = color;
 
         }
-        public void calc(){
-            FCTH_Descriptor.FCTH get = new FCTH_Descriptor.FCTH();
-            Bitmap bmp = new Bitmap(img.GetLength(0),img.GetLength(1));
-
-            for (int i = 0; i < img.GetLength(0); i++)
+        public int calc(){
+            try
             {
-                for (int j = 0; j < img.GetLength(1); j++)
+                FCTH_Descriptor.FCTH get = new FCTH_Descriptor.FCTH();
+                Bitmap bmp = new Bitmap(img.GetLength(0), img.GetLength(1));
+
+                for (int i = 0; i < img.GetLength(0); i++)
                 {
-                    bmp.SetPixel(i, j, Color.FromArgb(img[i,j]));
+                    for (int j = 0; j < img.GetLength(1); j++)
+                    {
+                        bmp.SetPixel(i, j, Color.FromArgb(img[i, j]));
+                    }
                 }
+                FCTHTable = get.Apply(bmp, 2);
+                return 0;
             }
-            FCTHTable = get.Apply(bmp,2);
-            
-            
+            catch (Exception ex)
+            {
+                return -1;
+            }
         }
         public double result(int i)
         {
