@@ -12,7 +12,7 @@ namespace FTCHpy
     {
         double[] FCTHTable = new double[192];
         int[,] img;
-        int count = 0;
+        //int count = 0; for debugging
         public void setImageSize(int i, int j)
         {
             img = new int[i,j];
@@ -36,9 +36,9 @@ namespace FTCHpy
                         bmp.SetPixel(i, j, Color.FromArgb(img[i, j]));
                     }
                 }
-                count++;
+                //count++; //following 2 lines were used for debugging the image data transfer
                 
-                bmp.Save("shirt" + count + ".bmp",System.Drawing.Imaging.ImageFormat.Jpeg);
+                //bmp.Save("shirt" + count + ".bmp",System.Drawing.Imaging.ImageFormat.Jpeg);
                 FCTHTable = get.Apply(bmp, 2);
                 return 0;
             }
